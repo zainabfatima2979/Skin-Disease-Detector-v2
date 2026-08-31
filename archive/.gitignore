@@ -1,0 +1,6 @@
+dataset_balanced_1800/
+dataset_split/
+__pycache__/
+.venv/
+*.pyc
+*.keras
